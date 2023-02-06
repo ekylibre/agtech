@@ -1,0 +1,2 @@
+class DatasourceCredit < LexiconRecord
+end
